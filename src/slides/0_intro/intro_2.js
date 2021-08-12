@@ -5,7 +5,7 @@ export default (
     <Slide transition={['zoom']} >
      <Layout>
          <Fill>
-             <Image src="assets/fluo_diag.png" />
+             <Image src="assets/todo.png" />
              
          </Fill>
          <Fill>

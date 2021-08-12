@@ -1,9 +1,31 @@
 import React from "react";
 import CodeSlide from "spectacle-code-slide/lib/CodeSlide";
 
-const code = `export function add(a: i32, b: i32): i32 {
-  return a + b;
+const code = `// KO
+export function echo(input: string) {
+  return input;
 }
+
+// OK
+export function echo(input: string): string {
+  return input;
+}
+
+// KO
+const data: Record<string, string> = {}
+
+// OK
+const data = new Map<string, string>();
+
+// OK
+type Func = (x: string | null) => number;
+
+// KO
+type Func = (x: string | number) => number;
+
+
+// Pas de type erasure :-)
+
 
 // Côté JS
 const wasm = 

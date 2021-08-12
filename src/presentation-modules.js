@@ -17,14 +17,11 @@ import {
 
 import CodeSlide from 'spectacle-code-slide';
 
-import code8 from './slides/2_jsverify/hdr.example'
-import code10 from './slides/2_jsverify/hdr.example.jsc'
-import code15 from './slides/3_stryker/age.example'
 
 // Import theme
 import createTheme from 'spectacle/lib/themes/default';
 
-import code from 'raw-loader!../public/assets/code.js';
+
 
 
 
@@ -57,42 +54,25 @@ const slidesImports = [
   import("./slides/1_wasm/wasm_5"),
   import("./slides/1_wasm/wasm_6"),
   
-
-
   import("./slides/2_getting_started/start_1"),
   import("./slides/2_getting_started/start_2"),
+  import("./slides/2_getting_started/start_3"),
 
   import("./slides/3_not_the_same/not_1"),
   import("./slides/3_not_the_same/not_2"),
   import("./slides/3_not_the_same/not_3"),
+  import("./slides/3_not_the_same/not_4"),
+  import("./slides/3_not_the_same/not_5"),
+  import("./slides/3_not_the_same/not_6"),
+  import("./slides/3_not_the_same/not_7"),
+  import("./slides/3_not_the_same/not_8"),
 
-  import("./slides/1_jsgiven/jsgiven_2"),
-  import("./slides/1_jsgiven/jsgiven_3"),
-  import("./slides/1_jsgiven/jsgiven_4"),
-  import("./slides/2_jsverify/jsverify_1a"),
-  import("./slides/2_jsverify/jsverify_1b"),
-  import("./slides/2_jsverify/jsverify_2"),
-  import("./slides/2_jsverify/jsverify_3"),
-  import("./slides/2_jsverify/jsverify_4"),
-  import("./slides/2_jsverify/jsverify_5"),
-  import("./slides/3_stryker/stryker_1"),
-  import("./slides/3_stryker/stryker_2"),
-  import("./slides/3_stryker/stryker_2b"),
-  import("./slides/3_stryker/stryker_2_example"),
-  import("./slides/3_stryker/stryker_3"),
-  import("./slides/3_stryker/stryker_3b"),
-  import("./slides/3_stryker/stryker_4a"),
-  import("./slides/3_stryker/stryker_4b"),
-  import("./slides/3_stryker/stryker_4c"),
-  import("./slides/3_stryker/stryker_4d"),
-  import("./slides/3_stryker/stryker_6"),
+
   import("./slides/4_end/conclusion"),
 ];
 
 const codeSamples = {
-  8: code8,
-  10: code10,
-  15: code15,
+
 }
 
 localStorage.clear();
