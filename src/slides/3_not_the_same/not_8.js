@@ -26,43 +26,47 @@ type Func = (x: string | number) => number;
 
 // Pas de type erasure :-)
 
+class GenericFactory<T> {
 
-// Côté JS
-const wasm = 
-  await WebAssembly.instantiateStreaming(
-    fetch("untouched.wasm"), 
-    {
-      env: {
-       abort() {},
-      },
-    }
-  );
-
-const { add } = wasm.instance.exports;
-console.log(add(2, 2));
-
-
-
-export function hello(name: string): string {
-  return \`Hello \${name}!\`;
+  create(): T {
+    return instantiate<T>();
+  }
 }
 
-// Côté JS
-import { instantiate } from "@assemblyscript/loader";
+const factory = new GenericFactory<...>();
+type Config = Map<string, number>;
+const factory = new GenericFactory<Config>();
+const map = factory.create();
+map.set('maClef', 42);
 
-const wasm = await instantiate(
-  fetch("untouched.wasm")
-);
 
-const { 
-  hello, 
-  __newString, 
-  __getString 
-} = wasm.exports;
+// Surcharge d'opérateurs
 
-const param = __newString("Paris");
-const result = hello(param);
-console.log(__getString(result));
+class ComplexNumber {
+
+  constructor(
+    public real: f64, 
+    public imaginary: f64) {}
+
+  toString(): string {
+    return 
+    \`\${this.real} + i\${this.imaginary}\`;
+  }
+
+  @operator("+")
+  add(other: ComplexNumber): ComplexNumber {
+    return new ComplexNumber(
+      this.real + other.real, 
+      this.imaginary + other.imaginary
+    );
+  }
+} 
+
+const c1 = new ComplexNumber(12, 42);
+const c2 = new ComplexNumber(10, 2);
+const c3 = c1 + c2;
+trace(c3.toString()); 
+// trace: 22.0 + i44.0
 
 `;
 
@@ -75,14 +79,20 @@ export default (
         code={code}
         fit
         ranges={[
-          { loc: [0, 3] },
-          { loc: [4, 8] },
-          { loc: [15, 17] },
-          { loc: [20, 23] },
-          { loc: [24, 26] },
-          { loc: [27, 30] },
-          { loc: [31, 36] },
-          { loc: [37, 41] },
+          { loc: [0, 4] },
+          { loc: [5, 9] },
+          { loc: [10, 12] },
+          { loc: [13, 15] },
+          { loc: [16, 18] },
+          { loc: [19, 21] },
+          { loc: [23, 24] },
+          { loc: [23, 31] },
+          { loc: [23, 33] },
+          { loc: [33, 35] },
+          { loc: [33, 37] },
+          { loc: [38, 51] },
+          { loc: [52, 66] },
+         
         ]}
         showLineNumbers={true}
       />
