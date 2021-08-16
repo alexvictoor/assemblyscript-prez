@@ -1,0 +1,2 @@
+webpackJsonp([6],{973:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=a(0),n=a.n(r),o=a(122);a.n(o);t.default=n.a.createElement(o.Slide,{transition:["zoom"],bgColor:"primary",backgroundOpacity:0},n.a.createElement(o.Image,{src:"assets/mandelbrot.png",width:"60%"}),n.a.createElement(o.Link,{href:"https://colineberhardt.github.io/wasm-mandelbrot"},"https://colineberhardt.github.io/wasm-mandelbrot"),n.a.createElement(o.Notes,null))}});
+//# sourceMappingURL=6.82888bd6.chunk.js.map

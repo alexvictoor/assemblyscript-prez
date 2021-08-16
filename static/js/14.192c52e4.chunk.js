@@ -1,0 +1,2 @@
+webpackJsonp([14],{965:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=a(0),n=a.n(r),o=a(122);a.n(o);t.default=n.a.createElement(o.Slide,{transition:["zoom"],bgColor:"secondary",backgroundOpacity:0},n.a.createElement(o.Heading,{size:1,bold:!0,lineHeight:1,textColor:"primary"},"NO"),n.a.createElement(o.Text,{margin:"10px 0 0",textColor:"tertiary",size:1,fit:!0,bold:!0},"side effect"),n.a.createElement(o.Notes,null))}});
+//# sourceMappingURL=14.192c52e4.chunk.js.map

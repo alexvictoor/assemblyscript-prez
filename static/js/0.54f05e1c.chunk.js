@@ -1,0 +1,2 @@
+webpackJsonp([0],{979:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=a(0),n=a.n(r),s=a(122);a.n(s);t.default=n.a.createElement(s.Slide,{transition:["zoom"],textFont:"secondary"},n.a.createElement(s.Heading,{size:2,caps:!0},"THE END"),n.a.createElement(s.Image,{src:"assets/assemblyscript-qrcode.svg"}),n.a.createElement(s.Text,{bold:!0,textColor:"tertiary"},"@Alex_Victoor"),n.a.createElement(s.Notes,null))}});
+//# sourceMappingURL=0.54f05e1c.chunk.js.map

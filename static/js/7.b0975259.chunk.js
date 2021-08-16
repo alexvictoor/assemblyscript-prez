@@ -1,0 +1,2 @@
+webpackJsonp([7],{972:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=a(0),r=a.n(n),o=a(122);a.n(o);t.default=r.a.createElement(o.Slide,{transition:["zoom"],bgColor:"secondary",bgImage:"assets/speed.jpg",bgDarken:"0.5"},r.a.createElement(o.Heading,{size:1,fit:!0,caps:!0,lineHeight:1,textColor:"primary"},"performances"),r.a.createElement(o.Notes,null))}});
+//# sourceMappingURL=7.b0975259.chunk.js.map

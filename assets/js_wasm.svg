@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660.5941772460938 427.3148498535156" width="660.5941772460938" height="427.3148498535156">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <g stroke-linecap="round" transform="translate(10 10) rotate(0 320.2970886230469 203.6574249267578)"><path d="M-0.61 -0.38 C177.15 -4.03, 355.59 -3.19, 639.26 0.9 M-0.09 -0.21 C159.08 -3.42, 317.81 -2.97, 641.37 -0.78 M642.63 -0.73 C634.39 137.65, 638.53 272.4, 641.2 408.31 M640.52 -0.08 C642.89 112.42, 641.27 222.97, 639.57 407.67 M641.22 406.48 C418.42 412.81, 194.99 411.43, 0.83 407.46 M640.99 407.83 C484.91 405.77, 328.66 406.94, -0.6 407.91 M1.89 408.07 C3.6 263.57, 1.08 120.6, -0.81 -0.15 M-0.05 407.39 C3.71 320.2, 3.71 232.6, 0.5 -0.63" stroke="#000000" stroke-width="4" fill="none"></path></g><g stroke-linecap="round" transform="translate(98.5216064453125 158.66506958007812) rotate(0 99.47201538085938 97.4293212890625)"><path d="M-0.06 -3.33 C57.41 -3.48, 107.35 1.24, 198.5 -1.06 M1.09 1.94 C56.64 2.83, 115.3 3.72, 200.78 -0.66 M197.23 1.09 C202.44 40.25, 201.7 85.64, 198.67 194.56 M197.86 -1.84 C201.81 78.86, 202.12 157.52, 199.73 193.82 M198.34 196.94 C133.33 191.98, 68.64 193.54, 1.96 197.45 M200.23 193.36 C129.35 197.6, 55.39 196.44, 1.71 195.54 M-1.58 193.4 C1.17 128.98, -2.46 68.12, -0.18 0.28 M1.95 195.75 C-3.89 147.52, -2.26 102.92, 1.67 -0.49" stroke="#000000" stroke-width="4" fill="none"></path></g><g stroke-linecap="round" transform="translate(371.88372802734375 159.071044921875) rotate(0 98.1146240234375 95.61007690429688)"><path d="M-1.54 2.4 C52.73 -1, 103.9 0.84, 197.05 1.09 M0.25 -1.52 C40.22 -4.39, 80.34 -1.74, 196.97 -1.45 M194.04 3.41 C200.54 45.38, 196.03 85.65, 194.3 194.39 M197.9 -0.6 C194.29 61.56, 196.07 123.16, 195.7 189.84 M195.99 192.88 C120.83 191.58, 42.64 191.62, -1.99 188.66 M198.17 192.32 C137.47 195.71, 76.69 195.35, 1.63 190.92 M3.54 189.89 C-2.2 145.61, -2.22 109.38, 3.16 -3.68 M-0.94 189.63 C-3.98 142.14, -3.88 90.52, -0.93 0.16" stroke="#000000" stroke-width="4" fill="none"></path></g><g transform="translate(171.830078125 238.30056762695312) rotate(0 22.5 22.5)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">JS</text></g><g transform="translate(423.35430908203125 236.58230590820312) rotate(0 50 22.5)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">WASM</text></g><g transform="translate(182.1251220703125 49.628875732421875) rotate(0 152.5 22.5)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Navigateur WEB </text></g></svg>
