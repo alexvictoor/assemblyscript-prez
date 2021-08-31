@@ -10,8 +10,9 @@ export default (
               TypeScript sous stéroïdes ?
           </Text>
           <Notes>
-              <h4>TODO pas tpout à fait du TypeScript</h4>
-            
+              <p>qui a déjà joué avec wasm ?</p>
+              <p>qui a déjà joué avec assemblyscript ?</p>
+              <p>HdrHistogramsJS outils pour generer des stats de latences - perf en js pas fouf fou par rapport à d'autres langages - comment optimiser les perfs</p>  
           </Notes>
         </Slide>
 );

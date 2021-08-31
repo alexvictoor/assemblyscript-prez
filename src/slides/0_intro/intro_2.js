@@ -20,7 +20,8 @@ export default (
     </Layout>
      
      <Notes>
-
+        <p>comet typescript en mob</p>
+        <p>on en parle après au pot si vous êtes curieux</p>
         
     </Notes>
     </Slide>

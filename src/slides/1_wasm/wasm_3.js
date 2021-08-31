@@ -5,7 +5,7 @@ export default (
     <Slide transition={['zoom']} bgColor="primary">
         <Image src="assets/wasm_runtime.png" width="100%" />
         <Notes>
-            <p>TODO</p>
+            <p>en fait wasm ce n'est pas que pour les navigateurs</p>
         </Notes>
     </Slide>
 

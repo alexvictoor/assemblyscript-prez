@@ -19,7 +19,8 @@ export default (
       </Appear>
       
         <Notes>
-            <p>TODO</p>
+            <p>Concrètement la spec wasm, des instructions assembleurs, ex pour additionner deux entiers</p>
+            <p>spec wasm nombres entiers sur 32 64 bits</p>
         </Notes>
     </Slide>
 

@@ -13,8 +13,9 @@ export default (
     </Appear>
 
     <Notes>
-      <h4>on ne peut pas parler d'assemblyscript </h4>
-      <h4>spec d'un langage et d'une machine</h4>
+      <h4>on ne peut pas parler d'assemblyscript sans parler avant de wasm</h4>
+      <h4>spec d'un langage et d'une machine virtuelle</h4>
+      
     </Notes>
   </Slide>
 );
