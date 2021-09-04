@@ -1,2 +1,0 @@
-webpackJsonp([5],{974:function(e,t,l){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=l(0),n=l.n(a),o=l(122);l.n(o);t.default=n.a.createElement(o.Slide,{transition:["zoom"],bgColor:"secondary",backgroundOpacity:0},n.a.createElement(o.BlockQuote,null,n.a.createElement(o.Quote,{textSize:36},"...pre-existing TypeScript code doesn't magically become faster just by compiling to WebAssembly"),n.a.createElement(o.Cite,null,"AssemblyScript FAQ")),n.a.createElement(o.Notes,null))}});
-//# sourceMappingURL=5.5343efce.chunk.js.map

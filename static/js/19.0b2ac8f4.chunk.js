@@ -1,2 +1,0 @@
-webpackJsonp([19],{960:function(e,a,t){"use strict";Object.defineProperty(a,"__esModule",{value:!0});var n=t(0),r=t.n(n),s=t(122);t.n(s);a.default=r.a.createElement(s.Slide,{transition:["fade"],bgColor:"primary",bgImage:"assets/open_arena.png",backgroundOpacity:0},r.a.createElement(s.Image,{src:"assets/Emscripten_logo_full.png",width:"100%"}),r.a.createElement(s.Notes,null))}});
-//# sourceMappingURL=19.0b2ac8f4.chunk.js.map

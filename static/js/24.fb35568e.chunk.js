@@ -1,0 +1,2 @@
+webpackJsonp([24],{957:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=a(0),r=a.n(n),l=a(122);a.n(l);t.default=r.a.createElement(l.Slide,{transition:["zoom"],bgColor:"primary"},r.a.createElement(l.Image,{src:"assets/wasm_runtime.png",width:"100%"}),r.a.createElement(l.Notes,null,r.a.createElement("p",null,"en fait wasm ce n'est pas que pour les navigateurs"),r.a.createElement("p",null,"alternative l\xe9g\xe8re \xe0 des technos de virtualisation ou m\xeame aux containeurs docker")))}});
+//# sourceMappingURL=24.fb35568e.chunk.js.map
