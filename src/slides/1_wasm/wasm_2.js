@@ -2,7 +2,7 @@ import React from "react";
 import { Heading, Notes, Slide, Image, Text } from "spectacle";
 
 export default (
-    <Slide transition={['zoom']} bgColor="primary">
+    <Slide transition={['slide']} bgColor="primary">
         <Image src="assets/js_wasm.png" width="100%" />
         <Notes>
             <p>On peut faire tourner autrechose que du js dans un browser</p>

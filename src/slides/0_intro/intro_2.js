@@ -2,7 +2,7 @@ import React from "react";
 import { Heading, Slide, Text, Notes, List, ListItem, Layout, Fill, Fit, Image } from "spectacle";
 
 export default (
-    <Slide transition={['zoom']} >
+    <Slide transition={['slide']} >
      <Layout>
          <Fill>
              <Image src="assets/cosmos.png" />

@@ -2,7 +2,7 @@ import React from "react";
 import { Heading, Notes, Slide, Text, Appear, Image } from "spectacle";
 
 export default (
-  <Slide transition={["zoom"]} bgColor="secondary">
+  <Slide transition={["fade"]} bgColor="secondary">
     <Heading size={1} fit caps lineHeight={1} textColor="primary">
       wasm
     </Heading>

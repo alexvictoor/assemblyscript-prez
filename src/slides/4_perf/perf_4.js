@@ -2,7 +2,7 @@ import React from "react";
 import { Appear, Heading, Image, Notes, Slide, Text } from "spectacle";
 
 export default (
-    <Slide transition={["zoom"]} bgColor="secondary">
+    <Slide transition={["slide"]} bgColor="secondary">
     <Heading size={1} fit lineHeight={1} textColor="primary">
       number 
     </Heading>

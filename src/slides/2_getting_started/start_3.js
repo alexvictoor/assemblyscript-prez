@@ -2,7 +2,7 @@ import React from "react";
 import { Heading, Image, Link, Notes, Slide } from "spectacle";
 
 export default (
-<Slide transition={['zoom']} bgColor="primary" backgroundOpacity={0} >
+<Slide transition={['fade']} bgColor="primary" backgroundOpacity={0} >
 
 <Image src="assets/vs-code.svg" width="60%" />
 <Link href="https://github.dev/alexvictoor/assemblyscript-hello-world">Hello world!</Link>
