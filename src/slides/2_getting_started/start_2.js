@@ -68,3 +68,7 @@ export default (
 
 
 );
+
+// besoind e code js pour bootstraper une appli JS - ça c'est indépendant d'assemblyscript
+// conseil assemblyscript loader dés que l'on veut passer autre chose qu'un nombre en param comme une string, 
+// oui c'est plus compliqué que ça en a l'air une string

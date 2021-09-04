@@ -8,7 +8,7 @@ export default (
       <Cite>AssemblyScript FAQ</Cite>
     </BlockQuote>
     <Notes>
-   
+    <p>pas oublier de parler du gc</p>
     </Notes>
 </Slide>
 );

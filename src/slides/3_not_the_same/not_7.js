@@ -9,7 +9,7 @@ unknown
     </Heading>
    
     <Notes>
-  
+  <p>pas exhaustif pour deux raisons :ça serait long et en plus assemblyscript évolue très vite. on se conccentre sur les limitations liés à webassembly</p>
     </Notes>
 </Slide>
 );

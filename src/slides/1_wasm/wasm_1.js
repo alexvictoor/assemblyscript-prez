@@ -15,6 +15,7 @@ export default (
     <Notes>
       <h4>on ne peut pas parler d'assemblyscript sans parler avant de wasm</h4>
       <h4>spec d'un langage et d'une machine virtuelle</h4>
+      <h4>spec on y trouve un certain nombre d'instructions, des types primitifs comme des nombres entiers sur 32b et 64 bits. par contre ça reste super simple, orienté perf et ajd pas de gc</h4>
       
     </Notes>
   </Slide>

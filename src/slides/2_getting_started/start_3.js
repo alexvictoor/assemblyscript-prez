@@ -11,7 +11,7 @@ export default (
         <p>du code typescript dans vscode - des fichiers ts</p>
         <p>la conf qui va bien pour les spécificités AS et on remplazce tsc par asc et c'est parti</p>
         <p>ça marche plutôt pas mal - i32 alias vers number</p>
-
+        <p>as-pect jest like</p>
     </Notes>
 </Slide>
 );

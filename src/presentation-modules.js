@@ -51,6 +51,7 @@ const slidesImports = [
   import("./slides/1_wasm/wasm_2"),
   import("./slides/1_wasm/wasm_3"),
   import("./slides/1_wasm/wasm_4"),
+  import("./slides/1_wasm/wasm_4b"),
   import("./slides/1_wasm/wasm_5"),
   import("./slides/1_wasm/wasm_6"),
   
@@ -74,6 +75,7 @@ const slidesImports = [
   import("./slides/4_perf/perf_4"),
   import("./slides/4_perf/perf_5"),
   import("./slides/4_perf/perf_6"),
+  import("./slides/4_perf/perf_6b"),
   import("./slides/4_perf/perf_7"),
 
   import("./slides/5_end/conclusion"),

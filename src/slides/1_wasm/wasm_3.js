@@ -6,6 +6,7 @@ export default (
         <Image src="assets/wasm_runtime.png" width="100%" />
         <Notes>
             <p>en fait wasm ce n'est pas que pour les navigateurs</p>
+            <p>alternative légère à des technos de virtualisation ou même aux containeurs docker</p>
         </Notes>
     </Slide>
 

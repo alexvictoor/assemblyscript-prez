@@ -5,7 +5,7 @@ export default (
     <Slide transition={['zoom']} bgColor="secondary">
       
         <Text margin="10px 0 0" textColor="primary" size={1} fit bold>
-        &nbsp;&nbsp;&nbsp;&nbsp;0x6A&nbsp;&nbsp;&nbsp;&nbsp;
+        0x6A&nbsp;&nbsp;&nbsp;&nbsp;i32.add
       </Text>
       
         <Notes>
