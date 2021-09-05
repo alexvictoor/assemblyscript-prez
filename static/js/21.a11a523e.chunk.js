@@ -1,2 +1,0 @@
-webpackJsonp([21],{960:function(e,a,n){"use strict";Object.defineProperty(a,"__esModule",{value:!0});var l=n(0),o=n.n(l),r=n(414),c=n.n(r);a.default=o.a.createElement(c.a,{bgColor:"secondary",transition:["fade"],lang:"js",code:'(module\n  (func $add (param $lhs i32) (param $rhs i32) (result i32)\n    local.get $lhs\n    local.get $rhs\n    i32.add)\n  (export "add" (func $add))\n)',fit:!0,ranges:[{loc:[4,5]},{loc:[2,5]},{loc:[1,5]},{loc:[0,7]}],showLineNumbers:!0})}});
-//# sourceMappingURL=21.a11a523e.chunk.js.map

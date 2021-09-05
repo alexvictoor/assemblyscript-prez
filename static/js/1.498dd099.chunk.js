@@ -1,2 +1,0 @@
-webpackJsonp([1],{980:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=a(0),s=a.n(n),o=a(122);a.n(o);t.default=s.a.createElement(o.Slide,{transition:["fade"],bgColor:"secondary",bgImage:"assets/histogram-bench.png"},s.a.createElement(o.Notes,null))}});
-//# sourceMappingURL=1.498dd099.chunk.js.map
