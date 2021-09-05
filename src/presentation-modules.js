@@ -74,6 +74,7 @@ const slidesImports = [
   import("./slides/4_perf/perf_3"),
   import("./slides/4_perf/perf_4"),
   import("./slides/4_perf/perf_5"),
+  import("./slides/4_perf/perf_5b"),
   import("./slides/4_perf/perf_6"),
   import("./slides/4_perf/perf_6b"),
   import("./slides/4_perf/perf_7"),
