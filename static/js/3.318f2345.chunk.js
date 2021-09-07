@@ -1,0 +1,2 @@
+webpackJsonp([3],{979:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=a(0),s=a.n(r),n=a(122);a.n(n);t.default=s.a.createElement(n.Slide,{transition:["fade"],bgColor:"secondary",bgImage:"assets/chess.jpg",bgDarken:"0.5"},s.a.createElement(n.Image,{src:"assets/Bitboard.gif"}),s.a.createElement(n.Text,{textSize:20,textColor:"tertiary"},"source chessprogramming.org"),s.a.createElement(n.Notes,null))}});
+//# sourceMappingURL=3.318f2345.chunk.js.map
