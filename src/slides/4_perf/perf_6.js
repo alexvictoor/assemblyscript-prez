@@ -9,6 +9,7 @@ export default (
     bgDarken="0.5"
   >
     <Image src="assets/Bitboard.gif" />
+    <Text textSize={20} textColor="tertiary" >source chessprogramming.org</Text>
     
     <Notes></Notes>
   </Slide>
