@@ -2,11 +2,16 @@ import React from "react";
 import CodeSlide from "spectacle-code-slide/lib/CodeSlide";
 
 
-const code = `local.get $x
-local.get $y
-i32.add
-
-(i32.add (local.get $x) (local.get $y))`;
+const code = `(f32.sqrt
+  (f32.add 
+    (f32.mul 
+      (local.get $x)(local.get $x)
+    )
+    (f32.mul 
+      (local.get $y)(local.get $y)
+    )
+  )
+)`;
 
 export default (
 
@@ -17,10 +22,7 @@ export default (
         code={code}
         fit
         ranges={[
-          { loc: [0, 1] },
-          { loc: [0, 2] },
-          { loc: [0, 3] },
-          { loc: [4, 5] },
+          { loc: [0, 10] }
         ]}
         showLineNumbers={false}
       />
