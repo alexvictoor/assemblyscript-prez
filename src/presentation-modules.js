@@ -1,25 +1,15 @@
 // Import React
 import React from 'react';
-
 // Import Spectacle Core tags
 import {
-  BlockQuote,
-  Cite,
-  Deck,
-  Heading,
-  ListItem,
-  List,
-  Quote,
-  Slide,
-  Text,
-  Notes
+  Deck, Slide
 } from 'spectacle';
-
-import CodeSlide from 'spectacle-code-slide';
-
-
 // Import theme
 import createTheme from 'spectacle/lib/themes/default';
+
+
+
+
 
 
 
@@ -46,6 +36,7 @@ const theme = createTheme(
 const slidesImports = [
   import("./slides/0_intro/intro_1"),
   import("./slides/0_intro/intro_2"),
+  import("./slides/0_intro/intro_3"),
 
   import("./slides/1_wasm/wasm_1"),
   import("./slides/1_wasm/wasm_2"),

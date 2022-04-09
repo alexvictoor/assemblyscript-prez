@@ -4,10 +4,10 @@ import { Heading, Slide, Text, Notes } from "spectacle";
 export default (
     <Slide transition={['zoom']} bgColor="secondary">
           <Heading size={3} bold lineHeight={1} textColor="primary">
-              Découverte d'AssemblyScript
+              AssemblyScript
           </Heading>
           <Text margin="10px 0 0" textColor="tertiary" fit >
-              TypeScript sous stéroïdes ?
+              TypeScript sous stéroïdes grâce à WebAssembly ?
           </Text>
           <Notes>
               <p>qui a déjà joué avec wasm ?</p>

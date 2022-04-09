@@ -1,11 +1,11 @@
 import React from "react";
-import { Heading, Slide, Text, Notes, List, ListItem, Layout, Fill, Fit, Image } from "spectacle";
+import { Fill, Heading, Image, Layout, Notes, Slide, Text } from "spectacle";
 
 export default (
-    <Slide transition={['slide']} bgImage="assets/comet_roof_top.webp" bgDarken="0.8" >
+    <Slide transition={['slide']} bgImage="assets/comet_roof_top.webp" bgDarken="0.6" >
      <Layout>
          <Fill>
-             <Image src="assets/cosmos.png" />
+             <Image src="assets/teamwork.png" />
              
          </Fill>
          <Fill>
@@ -20,7 +20,9 @@ export default (
     </Layout>
      
      <Notes>
-        <p>comet typescript en mob</p>
+        <p>comet meetings - spécialistes des salles de réunions</p>
+        <p>comet meetings en mob</p>
+        <p>teamwork</p>
         <p>on en parle après au pot si vous êtes curieux</p>
         
     </Notes>
