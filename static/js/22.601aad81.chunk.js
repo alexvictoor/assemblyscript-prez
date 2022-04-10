@@ -1,0 +1,2 @@
+webpackJsonp([22],{948:function(e,s,n){"use strict";Object.defineProperty(s,"__esModule",{value:!0});var o=n(0),t=n.n(o),a=n(412);n.n(a);s.default=t.a.createElement(a.Slide,{transition:["spin"],bgColor:"primary",bgImage:"assets/as_landing_page_2.png",backgroundOpacity:0},t.a.createElement(a.Notes,null,"Typescript ou presque typescript pour WASM Projet open source Sponsors mais pas un grosse boite ou une grosse fondation"))}});
+//# sourceMappingURL=22.601aad81.chunk.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([20],{951:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=a(0),i=a.n(r),n=a(412);a.n(n);t.default=i.a.createElement(n.Slide,{transition:["zoom"],bgColor:"secondary",backgroundOpacity:0},i.a.createElement(n.Heading,{size:1,fit:!0,lineHeight:1,textColor:"primary"},"C'est comme du TypeScript"),i.a.createElement(n.Text,{margin:"10px 0 0",textColor:"tertiary",size:1,fit:!0,bold:!0},"sauf que..."),i.a.createElement(n.Notes,null))}});
+//# sourceMappingURL=20.d8863e46.chunk.js.map
