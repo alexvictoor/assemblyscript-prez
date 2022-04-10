@@ -2,11 +2,13 @@ import React from "react";
 import CodeSlide from "spectacle-code-slide/lib/CodeSlide";
 
 
-const code = `sqrt(x*x + y*y)
+const code = `// js
+sqrt(x*x + y*y)
 
 
 
 
+// wat s-expression
 (f32.sqrt
   (f32.add 
     (f32.mul 
@@ -30,12 +32,12 @@ export default (
   <CodeSlide
         bgColor="secondary"
         transition={['fade']}
-        lang="json"
+        lang="java"
         code={code}
         fit
         ranges={[
-          { loc: [0, 1] },
-          { loc: [5, 15] }
+          { loc: [0, 2] },
+          { loc: [5, 17] }
         ]}
         showLineNumbers={true}
       />
