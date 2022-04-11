@@ -1,5 +1,5 @@
 import React from "react";
-import { Appear, Heading, Image, Notes, Slide, Text } from "spectacle";
+import { Fill, Image, Layout, Notes, Slide, Text } from "spectacle";
 
 export default (
   <Slide
@@ -8,9 +8,10 @@ export default (
     bgImage="assets/chess.jpg"
     bgDarken="0.5"
   >
-    <Image src="assets/Bitboard.gif" />
-    <Text textSize={20} textColor="tertiary" >source chessprogramming.org</Text>
-    
+
+        <Image src="assets/chessboard.png" />
+ 
+
     <Notes></Notes>
   </Slide>
 );

@@ -8,18 +8,9 @@ export default (
     bgImage="assets/chess.jpg"
     bgDarken="0.5"
   >
-    <Heading size={1} fit caps lineHeight={1} textColor="primary">
-      bench perft
-    </Heading>
-    <Appear>
-      <Text textColor="tertiary"  >position initiale, 5 niveaux, 4865609 nodes</Text>
-    </Appear>
-    <Appear>
-      <Text textColor="tertiary" bold >JavaScript : 14674ms</Text>
-    </Appear>
-    <Appear>
-      <Text textColor="tertiary" bold >AssemblyScript : 1219ms</Text>
-    </Appear>
+    <Image src="assets/Bitboard.gif" />
+    <Text textSize={20} textColor="tertiary" >source chessprogramming.org</Text>
+    
     <Notes></Notes>
   </Slide>
 );
