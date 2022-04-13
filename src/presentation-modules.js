@@ -40,8 +40,8 @@ const slidesImports = [
 
   import("./slides/1_wasm/wasm_1"),
   import("./slides/1_wasm/wasm_2"),
+  import("./slides/1_wasm/wasm_2b"),
   import("./slides/1_wasm/wasm_3"),
-  import("./slides/1_wasm/wasm_3b"),
   import("./slides/1_wasm/wasm_4"),
   import("./slides/1_wasm/wasm_4b"),
   import("./slides/1_wasm/wasm_4c"),

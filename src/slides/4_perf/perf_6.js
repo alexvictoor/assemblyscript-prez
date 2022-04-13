@@ -1,5 +1,5 @@
 import React from "react";
-import { Fill, Image, Layout, Notes, Slide, Text } from "spectacle";
+import { Image, Notes, Slide } from "spectacle";
 
 export default (
   <Slide

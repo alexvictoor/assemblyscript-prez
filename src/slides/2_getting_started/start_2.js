@@ -66,7 +66,6 @@ export default (
       />
 
 
-
 );
 
 // besoind e code js pour bootstraper une appli JS - ça c'est indépendant d'assemblyscript

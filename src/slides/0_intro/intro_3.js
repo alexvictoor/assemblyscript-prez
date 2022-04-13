@@ -15,8 +15,9 @@ export default (
       </Text>
      
      <Notes>
-        <p>comet typescript en mob</p>
-        <p>on en parle après au pot si vous êtes curieux</p>
+        <p>temps perso HdrHistogram </p>
+        <p>adaption en typescript d'une lib Java écrite par gil tene </p>
+        <p>mars 2020 un peu plus de temps perso</p>
         
     </Notes>
     </Slide>

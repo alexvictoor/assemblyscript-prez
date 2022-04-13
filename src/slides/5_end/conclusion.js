@@ -1,21 +1,13 @@
 import React from "react";
 import {
-  Heading,
-  Notes,
-  Slide,
-  List,
-  ListItem,
-  Link,
-  Text,
-  Image,
-  Fill,
-  Layout,
+  Fill, Heading, Image, Layout, Notes,
+  Slide, Text
 } from "spectacle";
 
 export default (
   <Slide transition={["zoom"]} textFont="secondary">
     <Heading size={2} caps style={{ marginBottom: '50px' }}>
-      THE END
+      Merci !
     </Heading>
     <Layout>
       <Fill style={{ textAlign: 'left'}} >
@@ -29,7 +21,13 @@ export default (
         <Image src="assets/assemblyscript-qrcode.svg" />
       </Fill>
     </Layout>
+    
+    <Notes>
+      AssemblyScript c'est très sympa
+      Il faut pour en profiter écrire le code différemment, un peu comme du code en C pus que du code TypeScript
+      Faire attention au GC et aux allocations mémoires.
 
-    <Notes></Notes>
+
+    </Notes>
   </Slide>
 );
