@@ -16,7 +16,7 @@ export default (
       <h4>on ne peut pas parler d'assemblyscript sans parler avant de wasm</h4>
       <h4>spec d'un langage et d'une machine virtuelle</h4>
       <h4>langage une sorte d'assembleur</h4>
-      <h4>machine virtuelle hyper simple - le but c'est d'être efficace, il faut que ça démarre très vite</h4>
+      <h4>machine virtuelle hyper simple </h4>
      
       
     </Notes>

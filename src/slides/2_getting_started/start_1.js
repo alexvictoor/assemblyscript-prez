@@ -6,6 +6,7 @@ export default (
 
 
     <Notes>
+        Si vous faites déjà des applis web en Typescript, AssemblyScript sur le papier c'est quand même très séduisant
     Typescript ou presque typescript pour WASM
 Projet open source
 Sponsors mais pas un grosse boite ou une grosse fondation
