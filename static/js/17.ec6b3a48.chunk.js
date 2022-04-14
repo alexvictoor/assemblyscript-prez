@@ -1,2 +1,0 @@
-webpackJsonp([17],{954:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=a(0),l=a.n(n),c=a(412);a.n(c);t.default=l.a.createElement(c.Slide,{transition:["slide"],bgColor:"secondary",backgroundOpacity:0},l.a.createElement(c.BlockQuote,null,l.a.createElement(c.Quote,{textSize:52},"AssemblyScript n\u2019est pas un langage dynamique")),l.a.createElement(c.Notes,null))}});
-//# sourceMappingURL=17.ec6b3a48.chunk.js.map

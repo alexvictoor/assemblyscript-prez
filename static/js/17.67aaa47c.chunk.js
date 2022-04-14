@@ -1,0 +1,2 @@
+webpackJsonp([17],{955:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=n(0),o=n.n(a),r=n(412);n.n(r);t.default=o.a.createElement(r.Slide,{transition:["zoom"],bgColor:"secondary",backgroundOpacity:0},o.a.createElement(r.Heading,{size:1,lineHeight:1,textColor:"primary",style:{textDecoration:"line-through #f33;"}},"any"),o.a.createElement(r.Notes,null))}});
+//# sourceMappingURL=17.67aaa47c.chunk.js.map
