@@ -11,7 +11,8 @@ export default (
        sauf que...
       </Text>
     <Notes>
-  
+    J'ai quand même une mauvaise nouvelle
+    on va voir ensemble qu'il y a quelques limitations. Je vais ne pas être exhaustifs - certaines limitations viennent de webassembly, et ça change très vite. D'autres viennent de webassembly et ça change très vite aussi.
     </Notes>
 </Slide>
 );

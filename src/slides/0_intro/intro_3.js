@@ -15,9 +15,11 @@ export default (
       </Text>
      
      <Notes>
+        <p>Pourquoi je vous parle aujourd'hui d'AssemblyScript ?</p>
         <p>temps perso HdrHistogram </p>
         <p>adaption en typescript d'une lib Java écrite par gil tene </p>
         <p>mars 2020 un peu plus de temps perso</p>
+        <p>J'ai été surpris en regardant AssemblyScript que cette techno ene soit pas plus populaire</p>
         
     </Notes>
     </Slide>
