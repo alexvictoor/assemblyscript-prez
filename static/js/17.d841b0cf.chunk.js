@@ -1,0 +1,2 @@
+webpackJsonp([17],{958:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=n(0),l=n.n(a),o=n(412);n.n(o);t.default=l.a.createElement(o.Slide,{transition:["slide"],bgColor:"secondary",backgroundOpacity:0},l.a.createElement(o.BlockQuote,null,l.a.createElement(o.Quote,{textSize:52},"Un sous-ensemble de TypeScript ?")),l.a.createElement(o.Notes,null))}});
+//# sourceMappingURL=17.d841b0cf.chunk.js.map

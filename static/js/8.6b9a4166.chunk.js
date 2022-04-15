@@ -1,2 +1,0 @@
-webpackJsonp([8],{965:function(e,a,s){"use strict";Object.defineProperty(a,"__esModule",{value:!0});var t=s(0),n=s.n(t),r=s(412);s.n(r);a.default=n.a.createElement(r.Slide,{transition:["fade"],bgColor:"secondary",bgImage:"assets/chess.jpg",bgDarken:"0.5"},n.a.createElement(r.Image,{src:"assets/chessboard.png"}),n.a.createElement(r.Notes,null))}});
-//# sourceMappingURL=8.6b9a4166.chunk.js.map
