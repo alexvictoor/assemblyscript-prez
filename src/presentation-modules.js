@@ -51,7 +51,7 @@ const slidesImports = [
   import("./slides/1_wasm/wasm_6"),
   
   import("./slides/2_getting_started/start_1"),
-  import("./slides/2_getting_started/start_2"),
+  //import("./slides/2_getting_started/start_2"),
   import("./slides/2_getting_started/start_3"),
 
   import("./slides/3_not_the_same/not_1"),
@@ -62,6 +62,8 @@ const slidesImports = [
   import("./slides/3_not_the_same/not_6"),
   import("./slides/3_not_the_same/not_7"),
   import("./slides/3_not_the_same/not_8"),
+  import("./slides/3_not_the_same/not_9"),
+  import("./slides/3_not_the_same/not_10"),
 
 
   import("./slides/4_perf/perf_1"),
@@ -73,6 +75,8 @@ const slidesImports = [
   import("./slides/4_perf/perf_6"),
   import("./slides/4_perf/perf_6b"),
   import("./slides/4_perf/perf_6c"),
+  import("./slides/4_perf/perf_6d"),
+  import("./slides/4_perf/perf_6e"),
   import("./slides/4_perf/perf_7"),
 
   import("./slides/5_end/conclusion"),

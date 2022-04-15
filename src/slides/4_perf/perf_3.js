@@ -9,7 +9,7 @@ export default (
     </BlockQuote>
     <Notes>
     <p>Le code du banch en js et assemblyscript quasiment le même. AssemblyScript pas magique. </p>
-    <p>Un autre bench existe ou là il ya du parallélisme avec l'instruction simd, du multithreading, et c'est beaucoup plus rapide </p>
+    <p>Un autre bench existeou le code utilise des fonctionnalités expérimentales de webassembly, et c'est beaucoup plus rapide </p>
     <p>Le gc</p>
     </Notes>
 </Slide>
