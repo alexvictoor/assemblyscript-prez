@@ -1,0 +1,2 @@
+webpackJsonp([29],{943:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=a(0),r=a.n(n),l=a(412);a.n(l);t.default=r.a.createElement(l.Slide,{transition:["slide"],bgColor:"primary"},r.a.createElement(l.Image,{src:"assets/formula_x_y.png",width:"100%"}),r.a.createElement(l.Notes,null))}});
+//# sourceMappingURL=29.f972e9c2.chunk.js.map

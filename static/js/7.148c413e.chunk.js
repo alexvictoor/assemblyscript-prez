@@ -1,0 +1,2 @@
+webpackJsonp([7],{969:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=a(0),i=a.n(n),l=a(412);a.n(l);t.default=i.a.createElement(l.Slide,{transition:["slide"],bgImage:"assets/gil_tene.jpg",bgDarken:"0.6"},i.a.createElement(l.Heading,{size:3,bold:!0,lineHeight:1,textColor:"primary"},"HdrHistogram ?"),i.a.createElement(l.Notes,null))}});
+//# sourceMappingURL=7.148c413e.chunk.js.map
