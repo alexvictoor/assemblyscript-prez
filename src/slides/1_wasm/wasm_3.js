@@ -1,5 +1,5 @@
 import React from "react";
-import { Heading, Notes, Slide, Image, Text } from "spectacle";
+import { Image, Notes, Slide } from "spectacle";
 
 export default (
     <Slide transition={['fade']} bgColor="primary">

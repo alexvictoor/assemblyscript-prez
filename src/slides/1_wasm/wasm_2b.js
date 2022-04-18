@@ -2,7 +2,7 @@ import React from "react";
 import { Image, Notes, Slide } from "spectacle";
 
 export default (
-    <Slide transition={['slide']} bgColor="primary">
+    <Slide transition={['fade']} bgColor="primary">
         <Image src="assets/wasm_js_runtime.png" width="100%" />
         <Notes>
             <p>js et wasm géré par le moteur js</p>

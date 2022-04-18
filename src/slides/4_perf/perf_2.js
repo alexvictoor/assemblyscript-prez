@@ -1,5 +1,5 @@
 import React from "react";
-import { Heading, Image, Link, Notes, Slide } from "spectacle";
+import { Image, Link, Notes, Slide } from "spectacle";
 
 export default (
 <Slide transition={['zoom']} bgColor="primary" backgroundOpacity={0} >

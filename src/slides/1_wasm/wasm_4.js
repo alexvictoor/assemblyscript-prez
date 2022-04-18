@@ -2,7 +2,7 @@ import React from "react";
 import { Notes, Slide, Text } from "spectacle";
 
 export default (
-    <Slide transition={['zoom']} bgColor="secondary">
+    <Slide transition={['spin']} bgColor="secondary">
       
         <Text margin="10px 0 0" textColor="primary" size={1} fit bold>
         &nbsp;&nbsp;&nbsp;&nbsp;0x6A&nbsp;&nbsp;&nbsp;&nbsp;

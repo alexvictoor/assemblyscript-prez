@@ -1,9 +1,9 @@
 import React from "react";
 import CodeSlide from "spectacle-code-slide/lib/CodeSlide";
 
-const code = `int getBucketIndex(final long value) {
+const code = `// Java
+int getBucketIndex(final long value) {
   // ...
-  // Java
   return leadingZeroCountBase - Long.numberOfLeadingZeros(value | subBucketMask);
 
   // TypeScript
@@ -15,6 +15,7 @@ const code = `int getBucketIndex(final long value) {
   );
 
   // AssemblyScript
+  // CLS - Count Leading Zeros
   return this.leadingZeroCountBase - <i32>clz(value | this.subBucketMask);
 
   // Java
@@ -33,8 +34,8 @@ export default (
         ranges={[
           { loc: [0, 4] },
           { loc: [5, 12] },
-          { loc: [13, 15] },
-          { loc: [13, 18] },
+          { loc: [13, 16] },
+          { loc: [13, 19] },
         
         ]}
         showLineNumbers={true}

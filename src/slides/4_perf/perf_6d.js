@@ -1,5 +1,5 @@
 import React from "react";
-import { Heading, Notes, Slide, Text } from "spectacle";
+import { Heading, Notes, Slide } from "spectacle";
 
 export default (
     <Slide transition={['slide']} bgImage="assets/gil_tene.jpg" bgDarken="0.6" >
