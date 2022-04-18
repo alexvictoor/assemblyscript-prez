@@ -15,7 +15,6 @@ int getBucketIndex(final long value) {
   );
 
   // AssemblyScript
-  // CLS - Count Leading Zeros
   return this.leadingZeroCountBase - <i32>clz(value | this.subBucketMask);
 
   // Java
@@ -34,8 +33,8 @@ export default (
         ranges={[
           { loc: [0, 4] },
           { loc: [5, 12] },
-          { loc: [13, 16] },
-          { loc: [13, 19] },
+          { loc: [13, 15], note: 'CLZ - Count Leading Zeros' },
+          { loc: [13, 18] },
         
         ]}
         showLineNumbers={true}
