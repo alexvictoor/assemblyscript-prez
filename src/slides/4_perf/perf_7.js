@@ -6,6 +6,8 @@ export default (
     transition={["fade"]}
     bgColor="secondary"
     bgImage="assets/histogram-bench.png"
+    bgSize="80%"
+    bgRepeat="no-repeat"
   >
     
     <Notes></Notes>
