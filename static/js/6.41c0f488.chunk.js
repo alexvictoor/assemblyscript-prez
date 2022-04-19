@@ -1,0 +1,2 @@
+webpackJsonp([6],{971:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=a(0),o=a.n(n),r=a(412);a.n(r);t.default=o.a.createElement(r.Slide,{transition:["fade"],bgColor:"secondary",bgImage:"assets/histogram-bench.png",bgSize:"80%",bgRepeat:"no-repeat"},o.a.createElement(r.Notes,null))}});
+//# sourceMappingURL=6.41c0f488.chunk.js.map
